@@ -1,2 +1,2 @@
 <?php
-require_once("farmhouse-bedding-set.html");
+require_once("farmhousebeddingset.html");
